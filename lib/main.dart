@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
             color: Color(0xff2b2b2b),
           ),
         ),
-        home: CartPage(),
+        home: HomePage(),
         // home: StreamBuilder(
         //     stream: FirebaseAuth.instance.authStateChanges(),
         //     builder: (index, sncpshot) {
